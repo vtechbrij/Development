@@ -1,0 +1,27 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 9C5E-F983
+
+ Directory of C:\git\Development\RoutingNavigationApp
+
+12/30/2019  12:31 PM    <DIR>          .
+12/30/2019  12:31 PM    <DIR>          ..
+09/27/2018  11:06 PM             1,257 .angular-cli.json
+09/27/2018  11:06 PM               245 .editorconfig
+09/27/2018  11:06 PM               544 .gitignore
+12/30/2019  12:15 PM    <DIR>          .vscode
+12/30/2019  12:31 PM                 0 checkfiles.txt
+12/30/2019  12:15 PM    <DIR>          css
+12/30/2019  12:15 PM    <DIR>          e2e
+12/30/2019  12:15 PM    <DIR>          images
+12/30/2019  12:15 PM    <DIR>          js
+09/27/2018  11:06 PM               923 karma.conf.js
+08/19/2019  12:21 AM           446,312 package-lock.json
+08/19/2019  12:21 AM             1,334 package.json
+09/27/2018  11:06 PM               722 protractor.conf.js
+09/27/2018  11:06 PM             1,036 README.md
+12/30/2019  11:58 AM    <DIR>          src
+09/27/2018  11:06 PM               363 tsconfig.json
+09/27/2018  11:06 PM             3,012 tslint.json
+12/30/2019  12:06 PM    <DIR>          webfonts
+              11 File(s)        455,748 bytes
+               9 Dir(s)  752,284,033,024 bytes free
